@@ -1,7 +1,7 @@
 
 # SmartHealth-Diagnostics Frontend
 
-**NeuraHealth** is a cutting-edge web platform that provides intelligent health assessment using advanced machine learning and deep learning models. The frontend of the platform is designed to offer a seamless and user-friendly experience for interacting with health predictions.
+**NeuraHealth** is a cutting-edge web platform that provides intelligent health assessment using advanced machine learning and deep learning models  to predict lung cancer, pneumonia, diabetes, and heart disease. The frontend of the platform is designed to offer a seamless and user-friendly experience for interacting with health predictions.
 
 ## Overview
 
